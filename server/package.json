@@ -1,0 +1,25 @@
+{
+  "name": "graphql-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AKS-V02/graphQl-project.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AKS-V02/graphQl-project/issues"
+  },
+  "homepage": "https://github.com/AKS-V02/graphQl-project#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "express-graphql": "^0.12.0",
+    "graphql": "^16.6.0",
+    "lodash": "^4.17.21"
+  }
+}
