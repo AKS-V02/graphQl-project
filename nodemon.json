@@ -1,0 +1,7 @@
+{
+    "env": {
+        "mongoDatabase": "graphQlDBno1",
+        "mongoDBUserName": "AKS-V02",
+        "mongoDBUserPassword": "AKS-V02"
+    }
+}
