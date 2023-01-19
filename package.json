@@ -23,6 +23,9 @@
     "graphql": "^16.6.0",
     "lodash": "^4.17.21",
     "mongoose": "^6.8.4"
+  },
+  "scripts":{
+    "start": "node app.js"
   }
  
 }
